@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">An aspiring Machine Learning Engineer that doesn't like to stop learning</h3>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **FinTech**
 
 - 📫 How to reach me **dsuniaga001@gmail.com**
 
