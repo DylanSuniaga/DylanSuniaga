@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">An aspiring Machine Learning Engineer that doesn't like to stop learning</h3>
+<h1 align="center">Hi, I’m Dylan Suniaga</h1>
+<h3 align="center">Quantitative Researcher focused on Machine Learning and Time-Series Modeling</h3>
 
-- 🌱 I’m currently learning **FinTech**
+<ul>
+  <li>🔬 I work on machine learning–driven time-series and volatility research, with an emphasis on feature engineering, leakage-aware validation, and out-of-sample evaluation.</li>
+  <li>📊 Research interests include realized volatility forecasting, options and volatility modeling, and empirical validation frameworks for financial ML.</li>
+  <li>📫 Contact: dsuniaga001@gmail.com</li>
+  <li>🎹 Outside of research, I play ping pong casually.</li>
+</ul>
 
-- 📫 How to reach me **dsuniaga001@gmail.com**
-
-- ⚡ Fun fact **I listen and play classical music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
